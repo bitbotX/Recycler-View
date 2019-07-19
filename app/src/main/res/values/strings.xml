@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">MRV</string>
+    <string name="m_recycler_view">Recycler View</string>
+    <string-array name="pet_types">
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Pigeon</item>
+        <item>Snake</item>
+        <item>Cow</item>
+        <item>Bug</item>
+        <item>Rat</item>
+        <item>GinniePig</item>
+    </string-array>
+    <string-array name="pet_desc">
+        <item>Dog\'s are faithful</item>
+        <item>Cat\'s are cute</item>
+        <item>Pigeon\'s are fast</item>
+        <item>Snake\'s are fragile</item>
+        <item>Cow\'s are treated as goddess in India</item>
+        <item>Bug\'s are horrific , lol I\'m just joking</item>
+        <item>Rat\'s are terrified mammalsa</item>
+        <item>GinniePig\'s are loving and kind-hearted mammals</item>
+    </string-array>
 </resources>
